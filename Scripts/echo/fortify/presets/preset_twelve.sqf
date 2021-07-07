@@ -1,0 +1,21 @@
+[west, -1, [
+["Land_HBarrier_01_big_4_green_F", 0],
+["Land_HBarrier_01_line_5_green_F", 0],
+["Land_CncBarrierMedium4_F", 0],
+["Land_CncBarrierMedium_F", 0],
+["Land_Mil_ConcreteWall_F", 0],
+["Land_CncBarrier_F", 0],
+["Land_Cargo_Patrol_V1_F", 0],
+["Land_HBarrier_01_tower_green_F", 0],
+["Land_BagBunker_01_small_green_F", 0],
+["Land_BagFence_01_long_green_F", 0],
+["Land_BagFence_01_round_green_F", 0],
+["Land_BagFence_01_short_green_F", 0],
+["Land_LampHalogen_F", 0],
+["Land_LampStreet_02_triple_F", 0],
+["Land_PortableLight_double_F", 0],
+["Land_Sign_WarningNoWeapon_F", 0],
+["Land_SignWarning_01_CheckpointAhead_F", 0],
+["Land_BarGate_F", 0],
+["Land_Razorwire_F", 0]
+]] call acex_fortify_fnc_registerObjects;

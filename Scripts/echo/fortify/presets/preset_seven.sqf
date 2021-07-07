@@ -1,0 +1,20 @@
+[west, -1, [
+["Land_HBarrier_01_big_4_green_F", 0],
+["Land_HBarrier_01_wall_6_green_F", 0],
+["Land_HBarrier_01_wall_4_green_F", 0],
+["Land_HBarrier_01_wall_corner_green_F", 0],
+["Land_HBarrier_01_wall_corridor_green_F", 0],
+["Land_HBarrier_01_big_tower_green_F", 0],
+["Land_HBarrier_01_line_5_green_F", 0],
+["Land_HBarrier_01_line_3_green_F", 0],
+["Land_HBarrier_01_line_1_green_F", 0],
+["zed", 0],
+["Land_Mil_WallBig_4m_F", 0],
+["Land_Mil_WallBig_Corner_F", 0],
+["Land_New_WiredFence_10m_F", 0],
+["Land_New_WiredFence_5m_F", 0],
+["Land_BarGate_F", 0],
+["Land_HelipadSquare_F", 0],
+["Land_SignM_WarningMilitaryArea_english_F", 0],
+["Land_fort_artillery_nest", 0]
+]] call acex_fortify_fnc_registerObjects;
